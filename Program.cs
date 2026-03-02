@@ -1,10 +1,14 @@
-﻿string[] attendees = 
+﻿string[] attendees =
 [
     "William Qu",
     "Angus Wong",
     "Ryan Chang",
-    "Bart Simpson",
-    "Shrek",
+    "Ethan Burnet",
+    "Dhruti Maniar",
+    "Aidan Inglis",
+    "Christopher Rudel",
+    "Nikita Bukhtoiarov",
+    "Spongebob Squarepants",
     "Inano",
     "Kevin",
     "Ethan Burnet",
